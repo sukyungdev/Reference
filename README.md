@@ -23,3 +23,9 @@ Reference Archive / 자료 모음집
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html) :zap:
 - [Git - 캐시(Cache) 삭제 방법 및 상세 설명](https://niceman.tistory.com/114)
 - [Git Push 에러 해결하기([Rejected] Master -> Master (Fetch First) Error: Failed To Push Some Refs To)](https://blog.dalso.org/it/git/14204)
+- [git add 실수했을때.. 작업 되돌리기](https://80000coding.oopy.io/c651a07e-82a2-435e-b3b8-22384482cddc) :zap:
+- [Github 토큰 로그인 방법](https://naknaklee.github.io/etc/2021/08/15/github-personal-access-token/)
+
+# MarkDown
+
+- [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
