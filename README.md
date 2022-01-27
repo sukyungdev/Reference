@@ -26,6 +26,18 @@ Reference Archive / 자료 모음집
 - [git add 실수했을때.. 작업 되돌리기](https://80000coding.oopy.io/c651a07e-82a2-435e-b3b8-22384482cddc) :zap:
 - [Github 토큰 로그인 방법](https://naknaklee.github.io/etc/2021/08/15/github-personal-access-token/)
 
+# github blog
+
+- [왕초보를 위한 Github 블로그 만들기 (1)](https://zeddios.tistory.com/1222) :zap:
+- [왕초보를 위한 Github 블로그 만들기 (2) - 테마 적용(with Jekyll)](https://zeddios.tistory.com/1223) :zap:
+- [Jekyll Chirpy 테마 사용하여 블로그 만들기](https://www.irgroup.org/posts/jekyll-chirpy/) :zap:
+- [아주 쉽게 jekyll 이용해서 github.io 블로그 만들기 (1)](https://calgaryhomeless.tistory.com/1) :zap:
+  > 위의 포스트 내용은 정말 큰 도움이 되었습니다. 저 뿐만 아니라 github 블로그에  
+  > 도전하시는 다른 분들께도 큰 도움이 될것이라 생각합니다.
+- [[Blog] GitHub Pages 블로그 이미지 업로드](https://hyeonjiwon.github.io/blog/markdown_img/)
+- [[Github] 블로그에 댓글 기능 추가하기 (ft. Utterances)](https://velog.io/@outstandingboy/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-ft.-Utterances)
+- [Github 블로그 검색엔진에 등록하기 (구글/네이버/다음)](https://yenarue.github.io/tip/2020/04/30/Search-SEO/)
+
 # MarkDown
 
 - [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
