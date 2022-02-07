@@ -41,3 +41,8 @@ Reference Archive / 자료 모음집
 # MarkDown
 
 - [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
+
+# HTML/CSS
+
+- [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
+- [엔티티(Entity)](http://tcpschool.com/html/html_text_entities)
