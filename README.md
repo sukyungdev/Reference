@@ -29,6 +29,7 @@ Reference Archive / 자료 모음집
 ---
 - [GitHub Actions 수동으로 실행하기 (Run GitHub Actions Manually)](https://bossm0n5t3r.github.io/posts/92/)
 - [깃허브(github) 커밋 히스토리 보기(sell all recent commits)](https://lts0606.tistory.com/517)
+- [깃허브 프로필에 공백, 엔터 넣기](https://loklee9.tistory.com/208)
 # github blog
 
 - [왕초보를 위한 Github 블로그 만들기 (1)](https://zeddios.tistory.com/1222) :zap:
