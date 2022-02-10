@@ -18,6 +18,7 @@ Reference Archive / 자료 모음집
 
 # git / github
 
+- [[Git]git 사용법 튜토리얼1 - 초기화, 스테이징, 커밋, 되돌리기](https://ebbnflow.tistory.com/196)
 - [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
 - [[번역]GitHub / Managing Remotes / 원격 저장소 이름 변경하기](http://minsone.github.io/git/github-managing-remotes-renaming-a-remote)
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html) :zap:
@@ -25,7 +26,9 @@ Reference Archive / 자료 모음집
 - [Git Push 에러 해결하기([Rejected] Master -> Master (Fetch First) Error: Failed To Push Some Refs To)](https://blog.dalso.org/it/git/14204)
 - [git add 실수했을때.. 작업 되돌리기](https://80000coding.oopy.io/c651a07e-82a2-435e-b3b8-22384482cddc) :zap:
 - [Github 토큰 로그인 방법](https://naknaklee.github.io/etc/2021/08/15/github-personal-access-token/)
-
+---
+- [GitHub Actions 수동으로 실행하기 (Run GitHub Actions Manually)](https://bossm0n5t3r.github.io/posts/92/)
+- [깃허브(github) 커밋 히스토리 보기(sell all recent commits)](https://lts0606.tistory.com/517)
 # github blog
 
 - [왕초보를 위한 Github 블로그 만들기 (1)](https://zeddios.tistory.com/1222) :zap:
@@ -41,8 +44,14 @@ Reference Archive / 자료 모음집
 # MarkDown
 
 - [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
+- [Markdown Emoji(마크다운 이모지 정리)](https://doozi316.github.io/markdown/2020/08/10/MD2/)
 
 # HTML/CSS
 
 - [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
 - [엔티티(Entity)](http://tcpschool.com/html/html_text_entities)
+
+# SEO 관련
+
+- [[Jekyll] 검색엔진에 블로그 등록하기 _Naver편](https://gmlwjd9405.github.io/2017/10/21/include-blog-in-a-NaverSearchEngine.html)
+- [깃허브 블로그 구글 검색 가능하게 하기](https://ip99202.github.io/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EA%B8%80-%EA%B2%80%EC%83%89-%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0/)
