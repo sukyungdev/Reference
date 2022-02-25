@@ -56,8 +56,9 @@ Reference Archive / 자료 모음집
 
 # CSS
 
--[CSS Diner](https://flukeout.github.io/). 
+- [CSS Diner](https://flukeout.github.io/) :zap:  
 > css selector를 재미있게 연습할 수 있는 게임입니다.  
+> 가상 선택자까지 폭넓게 다루고 있기 때문에 상당히 유용합니다.  
 
 # SEO 관련
 
