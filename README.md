@@ -48,11 +48,16 @@ Reference Archive / 자료 모음집
 - [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
 - [Markdown Emoji(마크다운 이모지 정리)](https://doozi316.github.io/markdown/2020/08/10/MD2/)
 
-# HTML/CSS
+# HTML
 
 - [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
 - [엔티티(Entity)](http://tcpschool.com/html/html_text_entities)
 - [HTML5 best practices; section/header/aside/article elements](https://stackoverflow.com/questions/4781077/html5-best-practices-section-header-aside-article-elements?rq=1) :zap:
+
+# CSS
+
+-[CSS Diner](https://flukeout.github.io/). 
+> css selector를 재미있게 연습할 수 있는 게임입니다.  
 
 # SEO 관련
 
