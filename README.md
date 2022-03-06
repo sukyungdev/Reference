@@ -68,3 +68,6 @@ Reference Archive / 자료 모음집
 # DevOps
 
 - [Netlify 로 정적 웹 사이트 배포하기](https://jojoldu.tistory.com/546)
+
+# 기타
+- [[CS] 웹 브라우저는 어떻게 작동하는가?](https://bbangson.tistory.com/87)
