@@ -53,7 +53,7 @@ Reference Archive / 자료 모음집
 - [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
 - [엔티티(Entity)](http://tcpschool.com/html/html_text_entities)
 - [HTML5 best practices; section/header/aside/article elements](https://stackoverflow.com/questions/4781077/html5-best-practices-section-header-aside-article-elements?rq=1) :zap:
-
+- [[HTML]GET & POST](https://hyoje420.tistory.com/24)
 # CSS
 
 - [CSS Diner](https://flukeout.github.io/) :zap:  
