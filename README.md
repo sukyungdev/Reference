@@ -58,8 +58,8 @@ Reference Archive / 자료 모음집
 
 - [CSS Diner](https://flukeout.github.io/) :zap:  
 > css selector를 재미있게 연습할 수 있는 게임입니다.  
-> 가상 선택자까지 폭넓게 다루고 있기 때문에 상당히 유용합니다.  
-
+> 가상 선택자까지 폭넓게 다루고 있기 때문에 상당히 유용합니다.
+- [CSS의 선택자들을 알아보자!!](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=iyakiggun&logNo=100193337283)
 # SEO 관련
 
 - [[Jekyll] 검색엔진에 블로그 등록하기 _Naver편](https://gmlwjd9405.github.io/2017/10/21/include-blog-in-a-NaverSearchEngine.html)
