@@ -62,7 +62,8 @@ Reference Archive / 자료 모음집
 > 가상 선택자까지 폭넓게 다루고 있기 때문에 상당히 유용합니다.
 - [CSS의 선택자들을 알아보자!!](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=iyakiggun&logNo=100193337283)
 - [Responsive Web ① – 반응형 웹을 위해 개발자가 꼭 알아야 하는 기술들](https://www.samsungsds.com/kr/insights/Responsive_web_1.html) :zap:  
-- [반응형 웹 뚝딱 만들기 (1) - 뷰포트 메타태그와 미디어 쿼리](https://nykim.work/84). 
+- [반응형 웹 뚝딱 만들기 (1) - 뷰포트 메타태그와 미디어 쿼리](https://nykim.work/84).
+- [CSS 배경(background) 관련 속성](https://www.daleseo.com/css-background/)
 
 # SEO 관련
 
