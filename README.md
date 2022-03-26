@@ -31,6 +31,7 @@ Reference Archive / 자료 모음집
 - [깃허브(github) 커밋 히스토리 보기(sell all recent commits)](https://lts0606.tistory.com/517)
 - [깃허브 프로필에 공백, 엔터 넣기](https://loklee9.tistory.com/208)
 - [[Git 폴더 생성] github에서 폴더 생성하는 방법](https://mac-user-guide.tistory.com/57)
+- [[Git] Github 원격 저장소(Remote Repository) 연결 및 반영(Push)하기](https://ourcstory.tistory.com/125)
 # github blog
 
 - [왕초보를 위한 Github 블로그 만들기 (1)](https://zeddios.tistory.com/1222) :zap:
