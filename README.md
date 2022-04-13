@@ -55,6 +55,7 @@ Reference Archive / 자료 모음집
 - [엔티티(Entity)](http://tcpschool.com/html/html_text_entities)
 - [HTML5 best practices; section/header/aside/article elements](https://stackoverflow.com/questions/4781077/html5-best-practices-section-header-aside-article-elements?rq=1) :zap:
 - [[HTML]GET & POST](https://hyoje420.tistory.com/24)
+- [Accessibility of the section element](https://www.scottohara.me/blog/2021/07/16/section.html)
 
 # CSS
 
