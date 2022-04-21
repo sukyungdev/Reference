@@ -66,6 +66,7 @@ Reference Archive / 자료 모음집
 - [Responsive Web ① – 반응형 웹을 위해 개발자가 꼭 알아야 하는 기술들](https://www.samsungsds.com/kr/insights/Responsive_web_1.html) :zap:  
 - [반응형 웹 뚝딱 만들기 (1) - 뷰포트 메타태그와 미디어 쿼리](https://nykim.work/84).
 - [CSS 배경(background) 관련 속성](https://www.daleseo.com/css-background/)
+- [CSS Styling Images](https://www.w3schools.com/css/css3_images.asp) :zap:
 
 # SEO 관련
 
