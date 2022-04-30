@@ -70,6 +70,7 @@ Reference Archive / 자료 모음집
 - [반응형 웹 뚝딱 만들기 (1) - 뷰포트 메타태그와 미디어 쿼리](https://nykim.work/84).
 - [CSS 배경(background) 관련 속성](https://www.daleseo.com/css-background/)
 - [CSS Styling Images](https://www.w3schools.com/css/css3_images.asp) :zap:
+- [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2) :zap:
 
 # SEO 관련
 
