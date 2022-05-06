@@ -71,6 +71,7 @@ Reference Archive / 자료 모음집
 - [CSS 배경(background) 관련 속성](https://www.daleseo.com/css-background/)
 - [CSS Styling Images](https://www.w3schools.com/css/css3_images.asp) :zap:
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2) :zap:
+- [[CSS] Flex를 사용하여 DIV 예쁘게 배치하기 (Container 편)](https://wooncloud.tistory.com/10) :zap:
 
 # SEO 관련
 
