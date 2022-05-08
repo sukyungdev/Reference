@@ -72,6 +72,7 @@ Reference Archive / 자료 모음집
 - [CSS Styling Images](https://www.w3schools.com/css/css3_images.asp) :zap:
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2) :zap:
 - [[CSS] Flex를 사용하여 DIV 예쁘게 배치하기 (Container 편)](https://wooncloud.tistory.com/10) :zap:
+- [반응형 웹, min-width와 max-width 중 어떤 것을 사용하는게 좋을까](https://studiomeal.com/archives/1004) :zap:
 
 # SEO 관련
 
