@@ -78,6 +78,7 @@ Reference Archive / 자료 모음집
 
 - [[Jekyll] 검색엔진에 블로그 등록하기 _Naver편](https://gmlwjd9405.github.io/2017/10/21/include-blog-in-a-NaverSearchEngine.html)
 - [깃허브 블로그 구글 검색 가능하게 하기](https://ip99202.github.io/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EA%B8%80-%EA%B2%80%EC%83%89-%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0/)
+- [사이트맵을 시간이 지나도 구글 검색 엔진이 읽지 않는 경우](https://support.google.com/webmasters/thread/161619569?hl=ko#) :zap:
 
 # DevOps
 
