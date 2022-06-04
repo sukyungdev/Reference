@@ -74,6 +74,9 @@ Reference Archive / 자료 모음집
 - [[CSS] Flex를 사용하여 DIV 예쁘게 배치하기 (Container 편)](https://wooncloud.tistory.com/10) :zap:
 - [반응형 웹, min-width와 max-width 중 어떤 것을 사용하는게 좋을까](https://studiomeal.com/archives/1004) :zap:
 
+# JavaScript
+
+- [[JavaScript] 자주 사용하는 ES6 문법 정리](https://velog.io/@kimhscom/JavaScript-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-ES6-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC)
 # SEO 관련
 
 - [[Jekyll] 검색엔진에 블로그 등록하기 _Naver편](https://gmlwjd9405.github.io/2017/10/21/include-blog-in-a-NaverSearchEngine.html)
