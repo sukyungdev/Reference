@@ -79,6 +79,9 @@ Reference Archive / 자료 모음집
 - [[JavaScript] 자주 사용하는 ES6 문법 정리](https://velog.io/@kimhscom/JavaScript-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-ES6-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
+# React
+- [React에서 .env 파일에 환경변수 넣어쓰기](https://webcorgi.tistory.com/48)  
+
 # SEO 관련
 
 - [[Jekyll] 검색엔진에 블로그 등록하기 _Naver편](https://gmlwjd9405.github.io/2017/10/21/include-blog-in-a-NaverSearchEngine.html)
