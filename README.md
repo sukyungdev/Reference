@@ -95,3 +95,4 @@ Reference Archive / 자료 모음집
 # 기타
 - [[CS] 웹 브라우저는 어떻게 작동하는가?](https://bbangson.tistory.com/87)
 - [이진 탐색(Binary Search) 알고리즘 개념 이해 및 추가 예제](https://cjh5414.github.io/binary-search/)
+- [웹팩이란?](https://joshua1988.github.io/webpack-guide/webpack/what-is-webpack.html)
