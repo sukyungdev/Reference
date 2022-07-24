@@ -32,7 +32,9 @@ Reference Archive / 자료 모음집
 - [깃허브 프로필에 공백, 엔터 넣기](https://loklee9.tistory.com/208)
 - [[Git 폴더 생성] github에서 폴더 생성하는 방법](https://mac-user-guide.tistory.com/57)
 - [[Git] Github 원격 저장소(Remote Repository) 연결 및 반영(Push)하기](https://ourcstory.tistory.com/125)
-- [이미 Push한 커밋 메시지 수정하기](https://holika.tistory.com/entry/Git-%EC%82%BD%EC%A7%88%EA%B8%B0%EB%A1%9D-Git-push-%EC%9D%B4%ED%9B%84%EC%97%90-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%88%98%EC%A0%95%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C)
+- [이미 Push한 커밋 메시지 수정하기](https://holika.tistory.com/entry/Git-%EC%82%BD%EC%A7%88%EA%B8%B0%EB%A1%9D-Git-push-%EC%9D%B4%ED%9B%84%EC%97%90-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%88%98%EC%A0%95%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C)  
+- [How to Write Good Git Commit Messages](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)  
+
 # github blog
 
 - [왕초보를 위한 Github 블로그 만들기 (1)](https://zeddios.tistory.com/1222) :zap:
