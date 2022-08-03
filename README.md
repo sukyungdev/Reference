@@ -98,4 +98,5 @@ Reference Archive / 자료 모음집
 - [[CS] 웹 브라우저는 어떻게 작동하는가?](https://bbangson.tistory.com/87)
 - [이진 탐색(Binary Search) 알고리즘 개념 이해 및 추가 예제](https://cjh5414.github.io/binary-search/)
 - [웹팩이란?](https://joshua1988.github.io/webpack-guide/webpack/what-is-webpack.html)  
-- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)  
+- [당신이 프런트엔드 면접에서 만나게될 질문](https://olaf-go.medium.com/%EF%B8%8F-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%A7%8C%EB%82%98%EA%B2%8C%EB%90%A0-%EC%A7%88%EB%AC%B8-b23c4db6ae40)
