@@ -75,11 +75,13 @@ Reference Archive / 자료 모음집
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2) :zap:
 - [[CSS] Flex를 사용하여 DIV 예쁘게 배치하기 (Container 편)](https://wooncloud.tistory.com/10) :zap:
 - [반응형 웹, min-width와 max-width 중 어떤 것을 사용하는게 좋을까](https://studiomeal.com/archives/1004) :zap:
+- [CSS 역사로 알아보는 CSS가 어려워진 이유](https://velog.io/@teo/css-history-1)
 
 # JavaScript
 
 - [[JavaScript] 자주 사용하는 ES6 문법 정리](https://velog.io/@kimhscom/JavaScript-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-ES6-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [forEach()와 map()의 차이점](https://dream-frontend.tistory.com/341)
 
 # React
 - [React에서 .env 파일에 환경변수 넣어쓰기](https://webcorgi.tistory.com/48)  
